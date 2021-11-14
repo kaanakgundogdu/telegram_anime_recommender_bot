@@ -1,4 +1,5 @@
-# telegram_anime_recommender_bot
+# Anime Recommender Telegram Bot
+
 An anime recommendation bot for telegram. Give a name and you get the recommendations.
 Please don't forget to add your key to the "Constants.py" file.
 
